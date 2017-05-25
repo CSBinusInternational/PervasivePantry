@@ -2,9 +2,9 @@
 
 import smtplib
 
-email = "yoursmarttray@gmail.com"
-password = "ikanlelemakanrumput"
-email_to = "wyohanes96@gmail.com"
+email = #yoursmarttrayemail
+password = #yourpasswordsmarttray
+email_to = #youremail
 
 server = smtplib.SMTP("smtp.gmail.com",587)
 server.starttls()
