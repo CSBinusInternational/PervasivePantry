@@ -28,9 +28,9 @@ while 1:
 			print "Hey! Your stock is going to run out soon." + note_log
 			print "latitude: " + y
 
-                        email = #youremail
-                        password = #yourpassword
-                        email_to = "wyohanes96@gmail.com"
+                        email = #youremailpantry
+                        password = #yourpasswordpantry
+                        email_to = #youremail
 
                         server = smtplib.SMTP("smtp.gmail.com",587)
                         server.starttls()
