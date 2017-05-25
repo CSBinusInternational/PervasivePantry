@@ -28,8 +28,8 @@ while 1:
 			print "Hey! Your stock is going to run out soon." + note_log
 			print "latitude: " + y
 
-                        email = "yoursmarttray@gmail.com"
-                        password = "ikanlelemakanrumput"
+                        email = #youremail
+                        password = #yourpassword
                         email_to = "wyohanes96@gmail.com"
 
                         server = smtplib.SMTP("smtp.gmail.com",587)
