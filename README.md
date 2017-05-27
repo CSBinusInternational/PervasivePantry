@@ -1,4 +1,8 @@
 # PervasivePantry
+
+
+![System Sketch](1495845364737.JPEG)
+
 PROJECT DESCRIPTIONS
 The  idea  behind  the  project  is  to  create a smart  pantry  that  could notify the  owner  if  their  egg  or 
 ingredient  is  running  out  via  email.  At  first  we  choose  a  moving  sensor  that  would  act  as  a  trigger  that 
